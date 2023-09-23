@@ -1,2 +1,16 @@
-this is chapter one. study well
-sadjnjofdjkofjiodjokdjskozkocdkjcsdmke dmkmkjonkjckcakml ,m
+git commands :
+vscode=>staging area => local area => global area
+
+local area:
+git status 
+git log
+git init
+git add .
+git commit -am "message"
+git checkout <branch> //move to branch
+git checkout -m <branch name>// add branch
+git branch
+git remote add origin <url>
+git push -u origin <branch>
+
+git rm --cached -r . // move the file from stagin area
